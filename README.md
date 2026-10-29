@@ -94,6 +94,30 @@ IPv6:         Disabled
 ![Network Setting Screenshort](./Screenshot%20Network%20Setting.png)
 
 
+## Step 4. Import Kali Linux
+
+The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
+
+The VM network adapter was configured as follows:
+
+```text
+Adapter 1
+Attached to: NAT Network
+Network:     NatNetwork
+Adapter Type: Intel PRO/1000 MT Desktop
+```
+
+The VM was allocated:
+
+```text
+RAM: 2048 MB
+```
+![](3-screenshot-kali-linux.png)
+A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+
+
+
+---
 
 
 
