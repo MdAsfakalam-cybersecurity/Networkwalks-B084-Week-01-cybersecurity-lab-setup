@@ -98,13 +98,6 @@ A **NAT Network** was selected because multiple virtual machines connected to th
 This will allow future attacker and target VMs to communicate within the lab.
 
 
----
-
-## Step 4. Import Kali Linux
-
-The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
-
-The VM network adapter was configured as follows:
 
 
 
