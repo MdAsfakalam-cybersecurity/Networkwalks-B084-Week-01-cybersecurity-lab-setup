@@ -133,7 +133,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![Kali Linux Network](.\Screenshort%20Kali%20Network.png)
+<img src="./Screenshot%20Kali%20Linux%20Network.png" alt="Kali Linux Network" width="700">
 
 ---
 
