@@ -90,12 +90,8 @@ Network Name: NatNetwork
 IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
-
-![](Screenshot Network Setting.png)
-
-A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
-
-This will allow future attacker and target VMs to communicate within the lab.
+# SCREENSHORT
+![Network Setting Screenshort](./Screenshot%20Network%20Setting.png)
 
 
 
